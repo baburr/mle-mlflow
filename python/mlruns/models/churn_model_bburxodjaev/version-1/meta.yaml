@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1753022372775
+current_stage: None
+description: null
+last_updated_timestamp: 1753022372775
+name: churn_model_bburxodjaev
+run_id: 850ed88ecdfe4cb1936358c153ea5e2b
+run_link: null
+source: file:///home/mle-user/mle_projects/mle-mlflow/python/mlruns/0/850ed88ecdfe4cb1936358c153ea5e2b/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 1
